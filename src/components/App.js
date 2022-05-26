@@ -1,4 +1,5 @@
 import '../App.css'
+import '../style/App.css'
 import PostList from './PostList'
 
 function App() {
